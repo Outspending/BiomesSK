@@ -28,7 +28,7 @@ dependencies {
         isTransitive = false
     }
 
-    implementation("com.github.Outspending:BiomesAPI:0.0.2")
+    implementation("com.github.Outspending:BiomesAPI:0.0.5")
 }
 
 tasks {
