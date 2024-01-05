@@ -1,0 +1,5 @@
+name: BiomesSK
+version: '${version}'
+main: me.outspending.biomessk.BiomesSK
+api-version: '1.20'
+depend: [ Skript ]
